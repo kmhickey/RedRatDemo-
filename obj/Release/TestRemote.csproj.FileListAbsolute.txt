@@ -1,0 +1,12 @@
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\obj\Release\TestRemote.exe
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\bin\Release\TestRemote.exe
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\bin\Release\RedRat.dll
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\bin\Release\DriverWrapper.dll
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\bin\Release\DriverWrapper.pdb
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\obj\Release\ResolveAssemblyReference.cache
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\obj\Release\RedRat.TestRemote.ButtonPropertiesDialog.resources
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\obj\Release\RedRat.TestRemote.IRButton.resources
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\obj\Release\RedRat.TestRemote.SignalInputDialog.resources
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\obj\Release\RedRat.TestRemote.TestRemote.resources
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\obj\Release\TestRemote.csproj.GenerateResource.Cache
+S:\RedRat\Dev\Software\V2.0\Samples\TestRemote\bin\Release\RedRat.pdb

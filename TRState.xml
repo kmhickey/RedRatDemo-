@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfButtonInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ButtonInfo>
+    <Text>Stop</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>35955</ModulationFreq>
+      <Lengths>
+        <double>3.4545</double>
+        <double>1.7525</double>
+        <double>0.40650000000000003</double>
+        <double>1.3185</double>
+      </Lengths>
+      <SigData>AAECAgIDAgICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgICAgICAgICAwICAgMCAgIDAgIC
+AwICAgICAgICAgICAgICAgICAgICAgICAgICAgMCAgIDAgICAwICAgMCfw==</SigData>
+      <NoRepeats>0</NoRepeats>
+      <IntraSigPause>0</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+  <ButtonInfo>
+    <Text>Play</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>35955</ModulationFreq>
+      <Lengths>
+        <double>3.4545</double>
+        <double>1.7525</double>
+        <double>0.40650000000000003</double>
+        <double>1.3185</double>
+      </Lengths>
+      <SigData>AAECAgIDAgICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgICAgICAgICAwICAgMCAgIDAgIC
+AwICAgICAgICAgICAwICAgMCAgICAgICAgICAgICAgICAgICAwICAgMCfw==</SigData>
+      <NoRepeats>0</NoRepeats>
+      <IntraSigPause>0</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+  <ButtonInfo>
+    <Text>Pause</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>36281</ModulationFreq>
+      <Lengths>
+        <double>3.4545</double>
+        <double>1.7525</double>
+        <double>0.40650000000000003</double>
+        <double>1.3185</double>
+      </Lengths>
+      <SigData>AAECAgIDAgICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgICAgICAgICAwICAgMCAgIDAgIC
+AwICAgICAgICAgICAwIDAgICAgICAgICAgICAgICAwIDAgICAwICAgMCfw==</SigData>
+      <NoRepeats>0</NoRepeats>
+      <IntraSigPause>0</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+  <ButtonInfo>
+    <Text>Mute</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>37825</ModulationFreq>
+      <Lengths>
+        <double>8.5295</double>
+        <double>4.4725</double>
+        <double>0.539</double>
+        <double>1.678</double>
+        <double>8.925</double>
+        <double>2.233</double>
+      </Lengths>
+      <SigData>AAECAwIDAgMCAgICAgICAgIDAgICAgIDAgMCAwIDAgMCAgICAgICAwICAgMCAgICAgMCAwIDAgIC
+AwICAgMCAwICAn8EBQJ/</SigData>
+      <NoRepeats>1</NoRepeats>
+      <IntraSigPause>38.673</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+  <ButtonInfo>
+    <Text>CD</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>37825</ModulationFreq>
+      <Lengths>
+        <double>8.8655</double>
+        <double>4.4645</double>
+        <double>0.539</double>
+        <double>1.6800000000000002</double>
+        <double>8.925</double>
+        <double>2.241</double>
+      </Lengths>
+      <SigData>AAECAwIDAgMCAgICAgICAgIDAgICAgIDAgMCAwIDAgMCAgIDAgICAwICAgICAgICAgMCAgIDAgIC
+AwIDAgMCAwICAn8EBQJ/</SigData>
+      <NoRepeats>1</NoRepeats>
+      <IntraSigPause>38.657</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+  <ButtonInfo>
+    <Text>Tuner</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>37825</ModulationFreq>
+      <Lengths>
+        <double>8.919</double>
+        <double>4.483</double>
+        <double>0.539</double>
+        <double>1.678</double>
+        <double>2.2365000000000004</double>
+      </Lengths>
+      <SigData>AAECAwIDAgMCAgICAgICAgIDAgICAgIDAgMCAwIDAgMCAgIDAgICAgICAgICAgICAgMCAgIDAgMC
+AwIDAgMCAwICAn8ABAJ/</SigData>
+      <NoRepeats>1</NoRepeats>
+      <IntraSigPause>38.6595</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+  <ButtonInfo>
+    <Text>Vol +</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>37825</ModulationFreq>
+      <Lengths>
+        <double>8.659</double>
+        <double>4.4780000000000006</double>
+        <double>0.5405</double>
+        <double>1.6804999999999999</double>
+      </Lengths>
+      <SigData>AAECAwIDAgMCAgICAgICAgIDAgICAgIDAgMCAwIDAgMCAgICAgICAgIDAgICAgICAgMCAwIDAgMC
+AgIDAgMCAwICAn8=</SigData>
+      <NoRepeats>0</NoRepeats>
+      <IntraSigPause>0</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+  <ButtonInfo>
+    <Text>Vol -</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>37825</ModulationFreq>
+      <Lengths>
+        <double>8.8655</double>
+        <double>4.4910000000000005</double>
+        <double>0.539</double>
+        <double>1.681</double>
+        <double>8.927</double>
+        <double>2.233</double>
+      </Lengths>
+      <SigData>AAECAwIDAgMCAgICAgICAgIDAgICAgIDAgMCAwIDAgMCAgICAgICAwIDAgICAgICAgMCAwIDAgIC
+AgIDAgMCAwICAn8EBQJ/</SigData>
+      <NoRepeats>0</NoRepeats>
+      <IntraSigPause>38.662</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+  <ButtonInfo>
+    <Text>Chan +</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>39900</ModulationFreq>
+      <Lengths>
+        <double>0.357</double>
+        <double>0.611</double>
+        <double>0.57600000000000007</double>
+        <double>1.155</double>
+        <double>24.93</double>
+        <double>2.3115</double>
+      </Lengths>
+      <SigData>AAECAgMCAgIDAgMCAgQFAQICAgICAgICAwICAgICAwICAgMCAwICBAUCAgICAgICAgIDAgICAgID
+AgICAwIDAgJ/</SigData>
+      <NoRepeats>0</NoRepeats>
+      <IntraSigPause>0</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+  <ButtonInfo>
+    <Text>Chan -</Text>
+    <IRPacket xsi:type="RedRat3ModulatedSignal">
+      <ModulationFreq>39408</ModulationFreq>
+      <Lengths>
+        <double>0.359</double>
+        <double>0.623</double>
+        <double>0.58449999999999991</double>
+        <double>1.161</double>
+        <double>25.224</double>
+        <double>2.355</double>
+      </Lengths>
+      <SigData>AAECAQMBAgIDAgMCAgQFAgMCAgICAgICAwICAgICAwICAgMCAwICBAUCAwICAgICAgIDAgICAgID
+AgICAwIDAgJ/</SigData>
+      <NoRepeats>0</NoRepeats>
+      <IntraSigPause>0</IntraSigPause>
+    </IRPacket>
+  </ButtonInfo>
+</ArrayOfButtonInfo>
